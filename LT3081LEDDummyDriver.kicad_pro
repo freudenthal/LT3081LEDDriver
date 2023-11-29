@@ -423,7 +423,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LT3081LEDDriver.kicad_pro",
+    "filename": "LT3081LEDDummyDriver.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -516,12 +516,16 @@
       "LT3081CurrentSupply"
     ],
     [
-      "2f84ed00-b0a8-460d-bd61-a29878d494f3",
-      "HighSideGateDriver"
-    ],
-    [
       "6253afc8-4e7e-4180-aa5a-72b0f3fc7b64",
       "I2CConnection"
+    ],
+    [
+      "9ea17e5f-4dca-471d-8008-44490c99882b",
+      "FETSwitch"
+    ],
+    [
+      "d9a655a7-b868-4da0-a96d-588061e3edab",
+      "DummyLEDLoad"
     ]
   ],
   "text_variables": {}

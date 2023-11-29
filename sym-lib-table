@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Regulators")(type "KiCad")(uri "${KIPRJMOD}/Regulators.kicad_sym")(options "")(descr ""))
   (lib (name "DigitalAnalogue")(type "KiCad")(uri "${KIPRJMOD}/DigitalAnalogue.kicad_sym")(options "")(descr ""))
+  (lib (name "GateDriver")(type "KiCad")(uri "${KIPRJMOD}/GateDriver.kicad_sym")(options "")(descr ""))
 )

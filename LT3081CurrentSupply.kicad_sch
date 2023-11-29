@@ -448,14 +448,8 @@
   (junction (at 83.058 67.31) (diameter 0) (color 0 0 0 0)
     (uuid 04768589-4c59-45d8-8bf2-bad54321aa13)
   )
-  (junction (at 222.504 45.974) (diameter 0) (color 0 0 0 0)
-    (uuid 072dea4e-30fa-4d95-b545-fe7069cd6820)
-  )
   (junction (at 149.098 45.974) (diameter 0) (color 0 0 0 0)
     (uuid 0b619bbd-c5eb-458c-a879-1d8f44125516)
-  )
-  (junction (at 203.454 59.944) (diameter 0) (color 0 0 0 0)
-    (uuid 1406792f-fb64-47f0-8f41-225c8e88b4a0)
   )
   (junction (at 127.254 94.488) (diameter 0) (color 0 0 0 0)
     (uuid 25885507-a933-4748-ba26-e38a15c13afc)
@@ -465,9 +459,6 @@
   )
   (junction (at 89.154 45.974) (diameter 0) (color 0 0 0 0)
     (uuid 45bcc1f5-766b-4c6b-a4e1-44c56d5f5d07)
-  )
-  (junction (at 214.122 59.944) (diameter 0) (color 0 0 0 0)
-    (uuid 49f7e5b2-5ad8-481b-a415-4d3227d78f17)
   )
   (junction (at 76.962 45.974) (diameter 0) (color 0 0 0 0)
     (uuid 4cb32aca-d150-40cc-b16a-3bedcaaa0fe6)
@@ -490,14 +481,14 @@
   (junction (at 161.036 45.974) (diameter 0) (color 0 0 0 0)
     (uuid 69cf88e9-a7f6-44f8-865c-0de2994f7f32)
   )
-  (junction (at 222.504 59.944) (diameter 0) (color 0 0 0 0)
-    (uuid 6eac380b-f0a7-4769-98bd-f6d8d8cb2d95)
-  )
   (junction (at 161.036 56.896) (diameter 0) (color 0 0 0 0)
     (uuid 73061e45-821f-4206-a79b-6f827802800d)
   )
-  (junction (at 203.454 45.974) (diameter 0) (color 0 0 0 0)
-    (uuid 81f54ddd-5d2e-42bf-a7b0-6d0f872378c0)
+  (junction (at 177.038 45.974) (diameter 0) (color 0 0 0 0)
+    (uuid 76a4c508-5b77-4898-8605-94975436e0d0)
+  )
+  (junction (at 122.174 74.93) (diameter 0) (color 0 0 0 0)
+    (uuid 80d74d87-3678-4e4d-9eb4-4cccf44b2f96)
   )
   (junction (at 99.314 45.974) (diameter 0) (color 0 0 0 0)
     (uuid 853c5569-f49a-41e3-a299-2dff05f8b501)
@@ -508,14 +499,14 @@
   (junction (at 127.254 96.774) (diameter 0) (color 0 0 0 0)
     (uuid 876e5dec-1925-417e-b20d-cdfe503790cc)
   )
-  (junction (at 214.122 45.974) (diameter 0) (color 0 0 0 0)
-    (uuid 8bb77c6f-5b6e-4db6-b420-4a40e28fd297)
-  )
   (junction (at 106.426 45.974) (diameter 0) (color 0 0 0 0)
     (uuid 8e02d1ed-569d-450c-b8a3-a9bd9d5971d9)
   )
   (junction (at 95.504 67.31) (diameter 0) (color 0 0 0 0)
     (uuid 908c0254-cb47-42f9-984c-8b52444144e7)
+  )
+  (junction (at 117.602 63.246) (diameter 0) (color 0 0 0 0)
+    (uuid 910823b0-6fc2-4a25-8d4f-748577107965)
   )
   (junction (at 132.334 108.966) (diameter 0) (color 0 0 0 0)
     (uuid 94d8e659-afac-4a08-86d5-e604182be201)
@@ -535,11 +526,11 @@
   (junction (at 161.036 51.308) (diameter 0) (color 0 0 0 0)
     (uuid cb2a7312-4dc6-4ba7-a086-9c784047a5a7)
   )
-  (junction (at 192.532 59.944) (diameter 0) (color 0 0 0 0)
-    (uuid cbcd79dd-7e1e-4357-813b-5e26e5ea356d)
-  )
   (junction (at 147.574 49.784) (diameter 0) (color 0 0 0 0)
     (uuid cc457f14-862a-47a7-b931-01ebad2ce730)
+  )
+  (junction (at 109.22 45.974) (diameter 0) (color 0 0 0 0)
+    (uuid cc8086b8-b0ca-44c0-9bea-de0b9d4d70a0)
   )
   (junction (at 147.574 56.896) (diameter 0) (color 0 0 0 0)
     (uuid d29ef01c-9d8f-4a10-b997-3a8dbd8ba9d4)
@@ -556,8 +547,8 @@
   (junction (at 122.174 63.246) (diameter 0) (color 0 0 0 0)
     (uuid e926ef18-3cec-4106-bc3c-a2044762a7dd)
   )
-  (junction (at 192.532 45.974) (diameter 0) (color 0 0 0 0)
-    (uuid ec5f34d2-e768-41f8-ada9-639754b6dc56)
+  (junction (at 109.22 26.162) (diameter 0) (color 0 0 0 0)
+    (uuid ed4d1cff-e3ff-41e8-b734-f7988b394bf5)
   )
   (junction (at 95.504 79.756) (diameter 0) (color 0 0 0 0)
     (uuid fd450feb-4612-4358-9363-35f9954a6f7d)
@@ -567,17 +558,13 @@
     (stroke (width 0) (type default))
     (uuid 00f02f30-1fb4-4eee-b6d6-2c509d3162b8)
   )
-  (wire (pts (xy 118.364 45.974) (xy 106.426 45.974))
+  (wire (pts (xy 118.364 45.974) (xy 109.22 45.974))
     (stroke (width 0) (type default))
     (uuid 0443daf0-9217-45bd-84bc-11d03b42668f)
   )
   (wire (pts (xy 110.236 79.756) (xy 110.236 82.296))
     (stroke (width 0) (type default))
     (uuid 07a208c5-b841-4fc6-8ca3-06cd60a6e6ee)
-  )
-  (wire (pts (xy 222.504 59.944) (xy 236.474 59.944))
-    (stroke (width 0) (type default))
-    (uuid 07b3f347-cecf-466b-bed6-10f798505ba0)
   )
   (wire (pts (xy 159.766 43.434) (xy 159.766 45.974))
     (stroke (width 0) (type default))
@@ -599,10 +586,6 @@
     (stroke (width 0) (type default))
     (uuid 1a516289-6661-4385-8e42-91a32049137f)
   )
-  (wire (pts (xy 164.084 45.974) (xy 192.532 45.974))
-    (stroke (width 0) (type default))
-    (uuid 1a5f67e2-2af0-46eb-84ef-c891d02c2784)
-  )
   (wire (pts (xy 144.526 80.772) (xy 144.78 80.772))
     (stroke (width 0) (type default))
     (uuid 1a64fc10-6767-465b-a2d0-4b4519b0b2d2)
@@ -610,6 +593,10 @@
   (wire (pts (xy 83.058 79.756) (xy 95.504 79.756))
     (stroke (width 0) (type default))
     (uuid 1dc0932b-ab5a-484a-96f7-f8542301631e)
+  )
+  (wire (pts (xy 117.602 73.66) (xy 117.602 74.93))
+    (stroke (width 0) (type default))
+    (uuid 1df53af3-5fe8-4eca-893b-57d15f63a6e0)
   )
   (wire (pts (xy 127.254 58.674) (xy 127.254 94.488))
     (stroke (width 0) (type default))
@@ -619,11 +606,7 @@
     (stroke (width 0) (type default))
     (uuid 245e23c8-da21-4e47-a8f5-2fcf9521c198)
   )
-  (wire (pts (xy 222.504 45.974) (xy 233.934 45.974))
-    (stroke (width 0) (type default))
-    (uuid 2688d442-9906-4f84-bb90-2267d9887756)
-  )
-  (wire (pts (xy 180.594 59.944) (xy 192.532 59.944))
+  (wire (pts (xy 179.578 48.514) (xy 182.88 48.514))
     (stroke (width 0) (type default))
     (uuid 27bc4358-1747-4faf-a382-23c704cff674)
   )
@@ -643,6 +626,10 @@
     (stroke (width 0) (type default))
     (uuid 34913456-a88c-40af-8bfc-88b9e74faeee)
   )
+  (wire (pts (xy 109.22 26.162) (xy 174.498 26.162))
+    (stroke (width 0) (type default))
+    (uuid 3493cdc9-2b8c-4f20-a162-3f8faf25679d)
+  )
   (wire (pts (xy 93.98 67.31) (xy 95.504 67.31))
     (stroke (width 0) (type default))
     (uuid 354b7361-5494-4fa4-96d4-5309955fa209)
@@ -651,9 +638,9 @@
     (stroke (width 0) (type default))
     (uuid 3796faf6-c523-438d-b341-fe5e64dbca02)
   )
-  (wire (pts (xy 192.532 59.944) (xy 203.454 59.944))
+  (wire (pts (xy 109.22 45.974) (xy 109.22 26.162))
     (stroke (width 0) (type default))
-    (uuid 38057c2f-08c7-4b34-9b4c-5a36823eb0e1)
+    (uuid 38ab3a09-d90d-48ab-9e6d-f62f164fe7f1)
   )
   (wire (pts (xy 99.314 55.626) (xy 99.314 57.404))
     (stroke (width 0) (type default))
@@ -679,11 +666,15 @@
     (stroke (width 0) (type default))
     (uuid 463eb263-8701-4eaa-878e-6cbc33ffe735)
   )
-  (wire (pts (xy 180.594 59.944) (xy 180.594 61.214))
+  (wire (pts (xy 179.578 48.514) (xy 179.578 49.784))
     (stroke (width 0) (type default))
     (uuid 47d9c1b9-45a3-41d5-af1e-95525f705011)
   )
-  (wire (pts (xy 233.934 57.404) (xy 236.474 57.404))
+  (wire (pts (xy 122.174 74.93) (xy 122.174 76.454))
+    (stroke (width 0) (type default))
+    (uuid 49445a54-4f50-4e1c-89a6-b713e2414d97)
+  )
+  (wire (pts (xy 164.084 45.974) (xy 177.038 45.974))
     (stroke (width 0) (type default))
     (uuid 4ce2807a-d6b0-4a86-aaa5-8c3b7d475940)
   )
@@ -694,10 +685,6 @@
   (wire (pts (xy 74.422 53.086) (xy 74.422 55.372))
     (stroke (width 0) (type default))
     (uuid 54770014-8800-46e1-96a8-96ed8469ce8f)
-  )
-  (wire (pts (xy 192.532 45.974) (xy 192.532 47.244))
-    (stroke (width 0) (type default))
-    (uuid 5599bcb5-ca5a-41fc-8925-84b57e286be9)
   )
   (wire (pts (xy 95.504 77.47) (xy 95.504 79.756))
     (stroke (width 0) (type default))
@@ -731,10 +718,6 @@
     (stroke (width 0) (type default))
     (uuid 623d9bcc-a8aa-427f-8af6-4ddf66cb6ea4)
   )
-  (wire (pts (xy 222.504 54.864) (xy 222.504 59.944))
-    (stroke (width 0) (type default))
-    (uuid 631201fd-e232-4e52-a80d-a83d8b05f723)
-  )
   (wire (pts (xy 106.426 57.404) (xy 106.426 55.626))
     (stroke (width 0) (type default))
     (uuid 655a2c19-dd4e-4d46-be47-aff51f9325ce)
@@ -759,6 +742,10 @@
     (stroke (width 0) (type default))
     (uuid 6f560253-bf78-4591-ab9f-9db953ab627a)
   )
+  (wire (pts (xy 179.578 29.845) (xy 179.578 32.258))
+    (stroke (width 0) (type default))
+    (uuid 6f8200eb-1c3c-475d-8714-fbb2d15dc699)
+  )
   (wire (pts (xy 89.154 45.974) (xy 99.314 45.974))
     (stroke (width 0) (type default))
     (uuid 6ff60508-968c-4dd3-83c3-aa4e9e0d5f49)
@@ -779,13 +766,9 @@
     (stroke (width 0) (type default))
     (uuid 74179840-ac01-49e3-ad06-2c191e13d578)
   )
-  (wire (pts (xy 110.236 63.246) (xy 122.174 63.246))
+  (wire (pts (xy 110.236 63.246) (xy 117.602 63.246))
     (stroke (width 0) (type default))
     (uuid 75b402e7-6810-4cc6-864d-997b264bebf2)
-  )
-  (wire (pts (xy 203.454 54.864) (xy 203.454 59.944))
-    (stroke (width 0) (type default))
-    (uuid 762f3d65-b889-4559-8830-0c250db9dae4)
   )
   (wire (pts (xy 147.574 49.784) (xy 147.574 51.308))
     (stroke (width 0) (type default))
@@ -794,14 +777,6 @@
   (wire (pts (xy 95.504 69.85) (xy 95.504 67.31))
     (stroke (width 0) (type default))
     (uuid 7b74cc1c-dbd9-440c-a573-94e834c0524b)
-  )
-  (wire (pts (xy 214.122 59.944) (xy 222.504 59.944))
-    (stroke (width 0) (type default))
-    (uuid 7bfec0a0-5b76-4e42-832d-0592235ba934)
-  )
-  (wire (pts (xy 222.504 45.974) (xy 214.122 45.974))
-    (stroke (width 0) (type default))
-    (uuid 7e04abc3-cfe6-42aa-9770-e74ea0b00fb6)
   )
   (wire (pts (xy 95.504 67.31) (xy 110.236 67.31))
     (stroke (width 0) (type default))
@@ -826,6 +801,10 @@
   (wire (pts (xy 134.874 108.966) (xy 132.334 108.966))
     (stroke (width 0) (type default))
     (uuid 92dd347b-3429-4351-b0ba-04ade29fa345)
+  )
+  (wire (pts (xy 117.602 63.246) (xy 117.602 66.04))
+    (stroke (width 0) (type default))
+    (uuid 93522bf4-94ed-46b3-8ba5-6e833ece1a11)
   )
   (wire (pts (xy 99.314 57.404) (xy 103.124 57.404))
     (stroke (width 0) (type default))
@@ -863,13 +842,13 @@
     (stroke (width 0) (type default))
     (uuid a0a1aebe-d3ec-4393-9848-f084bbce3f62)
   )
-  (wire (pts (xy 203.454 45.974) (xy 203.454 47.244))
-    (stroke (width 0) (type default))
-    (uuid a2911c9e-0d31-441a-bdf1-b160ff71b5bd)
-  )
   (wire (pts (xy 142.494 49.784) (xy 144.526 49.784))
     (stroke (width 0) (type default))
     (uuid a2f08c8b-4476-4f26-a96d-a44973f7e69d)
+  )
+  (wire (pts (xy 109.22 45.974) (xy 106.426 45.974))
+    (stroke (width 0) (type default))
+    (uuid a4426aec-d475-4fc6-8c3e-3b5fef7887c7)
   )
   (wire (pts (xy 134.874 105.664) (xy 134.874 108.966))
     (stroke (width 0) (type default))
@@ -878,6 +857,10 @@
   (wire (pts (xy 122.174 58.674) (xy 122.174 63.246))
     (stroke (width 0) (type default))
     (uuid a7294ddc-040a-4aaf-af57-65d3e69ac42f)
+  )
+  (wire (pts (xy 134.874 91.948) (xy 132.334 91.948))
+    (stroke (width 0) (type default))
+    (uuid af05617c-96c1-416f-bc6d-93e0f6cf17c0)
   )
   (wire (pts (xy 136.144 105.664) (xy 134.874 105.664))
     (stroke (width 0) (type default))
@@ -895,6 +878,10 @@
     (stroke (width 0) (type default))
     (uuid b363d006-2ae3-4ca7-b7b6-a360924fd139)
   )
+  (wire (pts (xy 177.038 45.974) (xy 182.88 45.974))
+    (stroke (width 0) (type default))
+    (uuid b78dcda7-32bf-407c-af74-6d74f60eeb0d)
+  )
   (wire (pts (xy 132.334 58.674) (xy 132.334 81.788))
     (stroke (width 0) (type default))
     (uuid b946d16f-ed62-4fd3-954e-1aaf0a2d4637)
@@ -902,10 +889,6 @@
   (wire (pts (xy 132.334 108.966) (xy 127.254 108.966))
     (stroke (width 0) (type default))
     (uuid b99adf07-a525-4747-8161-659af0587676)
-  )
-  (wire (pts (xy 192.532 54.864) (xy 192.532 59.944))
-    (stroke (width 0) (type default))
-    (uuid bc11e728-411d-4a4e-812a-ca54781ccf2b)
   )
   (wire (pts (xy 60.706 45.974) (xy 76.962 45.974))
     (stroke (width 0) (type default))
@@ -915,21 +898,21 @@
     (stroke (width 0) (type default))
     (uuid bcd2cc5d-8ef7-4c55-9359-a0dcabef7d9a)
   )
+  (wire (pts (xy 174.498 26.162) (xy 174.498 32.258))
+    (stroke (width 0) (type default))
+    (uuid be7940e5-129f-400d-aa4d-f8177d12fb26)
+  )
   (wire (pts (xy 147.574 45.974) (xy 149.098 45.974))
     (stroke (width 0) (type default))
     (uuid c1283553-97c9-41f0-95e1-2fd6235706a7)
   )
+  (wire (pts (xy 117.602 63.246) (xy 122.174 63.246))
+    (stroke (width 0) (type default))
+    (uuid c16c9e91-46fc-4282-99cc-a25a7eec9613)
+  )
   (wire (pts (xy 134.874 96.774) (xy 134.874 103.124))
     (stroke (width 0) (type default))
     (uuid c2994de1-0f69-46df-ae63-dc7055e80314)
-  )
-  (wire (pts (xy 214.122 45.974) (xy 214.122 47.244))
-    (stroke (width 0) (type default))
-    (uuid c944723d-c6ca-4654-8756-ad6458cd5358)
-  )
-  (wire (pts (xy 233.934 45.974) (xy 233.934 57.404))
-    (stroke (width 0) (type default))
-    (uuid ca40e242-5aa3-4042-a222-1b180903081d)
   )
   (wire (pts (xy 144.526 49.784) (xy 144.526 70.358))
     (stroke (width 0) (type default))
@@ -943,7 +926,7 @@
     (stroke (width 0) (type default))
     (uuid cb063a66-ea12-46cd-a399-19e32f3e478d)
   )
-  (wire (pts (xy 122.174 73.406) (xy 122.174 76.454))
+  (wire (pts (xy 122.174 73.406) (xy 122.174 74.93))
     (stroke (width 0) (type default))
     (uuid cbc1f0c0-3a09-4a2b-887c-5b6de6ccd787)
   )
@@ -963,11 +946,7 @@
     (stroke (width 0) (type default))
     (uuid d4806796-f9db-48d7-9a20-f5ae6e05764d)
   )
-  (wire (pts (xy 214.122 45.974) (xy 203.454 45.974))
-    (stroke (width 0) (type default))
-    (uuid d5ef9b4a-5ffc-4c19-9f14-c52f3b086006)
-  )
-  (wire (pts (xy 132.334 89.408) (xy 132.334 90.678))
+  (wire (pts (xy 132.334 89.408) (xy 132.334 91.948))
     (stroke (width 0) (type default))
     (uuid d6f5393b-3f3f-42fb-aedb-ae898a02e414)
   )
@@ -983,6 +962,10 @@
     (stroke (width 0) (type default))
     (uuid da1aff0e-ebbc-4738-86c7-dc6e6fcbefa2)
   )
+  (wire (pts (xy 106.68 26.162) (xy 109.22 26.162))
+    (stroke (width 0) (type default))
+    (uuid da9963ac-da86-4853-b1af-313dc32c0afa)
+  )
   (wire (pts (xy 71.882 65.532) (xy 71.882 67.31))
     (stroke (width 0) (type default))
     (uuid dce4f359-c928-494d-8373-fe426b121f7b)
@@ -994,10 +977,6 @@
   (wire (pts (xy 147.574 56.896) (xy 147.574 61.214))
     (stroke (width 0) (type default))
     (uuid e1b8a286-7101-4500-9297-4f284cd4bd0c)
-  )
-  (wire (pts (xy 214.122 54.864) (xy 214.122 59.944))
-    (stroke (width 0) (type default))
-    (uuid e3e2ad60-f4f9-4950-aad2-ca63a7be2616)
   )
   (wire (pts (xy 127.254 94.488) (xy 127.254 96.774))
     (stroke (width 0) (type default))
@@ -1011,10 +990,6 @@
     (stroke (width 0) (type default))
     (uuid eac83e0d-3d42-4a9d-9702-0d8566386663)
   )
-  (wire (pts (xy 222.504 47.244) (xy 222.504 45.974))
-    (stroke (width 0) (type default))
-    (uuid eb404856-357c-45c0-85eb-f25d84af55f8)
-  )
   (wire (pts (xy 122.174 63.246) (xy 122.174 65.786))
     (stroke (width 0) (type default))
     (uuid eb66f54f-8fe7-4320-b0cc-dd2d19ea3343)
@@ -1026,14 +1001,6 @@
   (wire (pts (xy 110.236 69.596) (xy 110.236 67.31))
     (stroke (width 0) (type default))
     (uuid efb8f1b5-5667-4140-97f4-2884dc3704a9)
-  )
-  (wire (pts (xy 203.454 59.944) (xy 214.122 59.944))
-    (stroke (width 0) (type default))
-    (uuid f076c84d-5c6c-428f-9f78-b8f8960c0b93)
-  )
-  (wire (pts (xy 203.454 45.974) (xy 192.532 45.974))
-    (stroke (width 0) (type default))
-    (uuid f176e8d7-933e-408c-92d5-ba97ab7c8729)
   )
   (wire (pts (xy 69.342 52.451) (xy 69.342 55.372))
     (stroke (width 0) (type default))
@@ -1047,9 +1014,17 @@
     (stroke (width 0) (type default))
     (uuid f80f9172-61c7-4b50-a8e1-1ec99168476f)
   )
+  (wire (pts (xy 177.038 42.418) (xy 177.038 45.974))
+    (stroke (width 0) (type default))
+    (uuid fc32e948-d792-4977-9661-273ed4f29d26)
+  )
   (wire (pts (xy 76.962 41.656) (xy 76.962 45.974))
     (stroke (width 0) (type default))
     (uuid fed5ba40-f0a3-4fc2-a7ae-cab6c696bc27)
+  )
+  (wire (pts (xy 117.602 74.93) (xy 122.174 74.93))
+    (stroke (width 0) (type default))
+    (uuid ff13e968-20f0-4d0c-aa79-6ecb09fc914a)
   )
 
   (label "V_{LED}" (at 122.174 76.454 270) (fields_autoplaced)
@@ -1060,6 +1035,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 68a37469-b464-4b8e-acaa-09f12dce5aa6)
   )
+  (label "V_{OUT}" (at 134.874 91.948 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9e867622-c607-4b6b-b344-77ad1696023d)
+  )
   (label "V_{OUT}" (at 120.396 84.836 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c9cae190-8f97-4e16-bcd2-e74bd35e6da3)
@@ -1069,6 +1048,10 @@
     (uuid eb2bbb3d-fe49-4085-9a4b-6d2bb964241f)
   )
 
+  (hierarchical_label "V_{IN}" (shape input) (at 106.68 26.162 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 082bf7cf-feb4-40be-85cc-c02c9994bcae)
+  )
   (hierarchical_label "V_{LED-}" (shape input) (at 164.084 41.656 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 94e9a54a-a3fd-40b5-a330-4a8f0c32a2ed)
@@ -1100,41 +1083,12 @@
     (pin "1" (uuid f013b12a-bc0d-4584-903f-061d0a83a8a3))
     (pin "2" (uuid 97fcb793-0772-419e-9fcc-20a900a64f31))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C2") (unit 1)
         )
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
           (reference "C1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Polarized") (at 222.504 51.054 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 0a19c98a-662f-42c5-9535-5c475e75de0a)
-    (property "Reference" "C32" (at 226.314 48.895 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100uF" (at 226.314 51.435 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:CP_Elec_8x10.5" (at 223.4692 54.864 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 222.504 51.054 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 1a9dc659-7590-450e-9426-05f74fb43697))
-    (pin "2" (uuid 75ed12a6-ec65-494f-bf67-b9ceaca7a697))
-    (instances
-      (project "LT3081LEDDriver"
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
-          (reference "C32") (unit 1)
-        )
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
-          (reference "C15") (unit 1)
         )
       )
     )
@@ -1146,7 +1100,7 @@
     (property "Reference" "R2" (at 163.83 67.056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10kΩ" (at 163.83 69.596 0)
+    (property "Value" "1kΩ" (at 163.83 69.596 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 159.258 68.326 90)
@@ -1158,7 +1112,7 @@
     (pin "1" (uuid 6fc4ecf3-f81e-4133-a402-b70cfb3554ef))
     (pin "2" (uuid 575c1b3b-b2cb-4527-ad52-d6361504fd8f))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R2") (unit 1)
         )
@@ -1187,7 +1141,7 @@
     (pin "1" (uuid c73ac152-a41e-4505-a948-0964f4af1de2))
     (pin "2" (uuid 57e3825e-12b9-452e-a551-9e295310c109))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "J2") (unit 1)
         )
@@ -1216,12 +1170,41 @@
     (pin "1" (uuid 4774a809-3f04-4f81-8cf2-837ce8af92fd))
     (pin "2" (uuid 885b3d63-12f9-43ff-964a-6d9b1c4b0951))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R4") (unit 1)
         )
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
           (reference "R9") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C") (at 117.602 69.85 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 322799dd-0cac-45d2-b818-c93f1eabb69e)
+    (property "Reference" "C1" (at 114.427 68.58 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "10nF" (at 114.427 71.12 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 118.5672 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 117.602 69.85 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 34567925-3728-4249-82f0-222c8192e9ae))
+    (pin "2" (uuid a1c4a69f-7dc7-4d5f-ab3d-02b662ca3fc8))
+    (instances
+      (project "LT3081LEDDummyDriver"
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
+          (reference "C1") (unit 1)
+        )
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -1245,40 +1228,12 @@
     (pin "1" (uuid 0c69cb74-b15e-42e9-8755-0c399574f0e5))
     (pin "2" (uuid b89a852e-4022-4fef-8df0-2e8a0be3d8c9))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R10") (unit 1)
         )
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
           (reference "R2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 132.334 90.678 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 3cda14cc-d764-45bc-bd7f-4b1e5ceec746)
-    (property "Reference" "#PWR05" (at 132.334 97.028 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 132.334 95.758 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 132.334 90.678 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 132.334 90.678 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c2cdefd7-db5b-4f5e-8383-1ab4525978a6))
-    (instances
-      (project "LT3081LEDDriver"
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
-          (reference "#PWR05") (unit 1)
-        )
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
-          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -1302,41 +1257,12 @@
     (pin "1" (uuid c28282d5-5886-4bd3-9c25-c8ac78a3962c))
     (pin "2" (uuid d021dea3-1b2f-4ef5-b9c4-f1d6e2a2c89f))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "J1") (unit 1)
         )
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
           (reference "J2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C") (at 192.532 51.054 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 555d68aa-95b4-4e30-afba-2032a3d8d8d0)
-    (property "Reference" "C3" (at 189.357 49.784 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "0.1uF" (at 189.357 52.324 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 193.4972 47.244 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 192.532 51.054 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 67adffde-cfa0-4324-9868-3081ce11031a))
-    (pin "2" (uuid db4d81a0-854c-4b3f-ad6b-9835f7795991))
-    (instances
-      (project "LT3081LEDDriver"
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
-          (reference "C3") (unit 1)
-        )
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
-          (reference "C10") (unit 1)
         )
       )
     )
@@ -1359,7 +1285,7 @@
     )
     (pin "1" (uuid 25e8399a-035d-4211-a522-86b37fdb28e2))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR04") (unit 1)
         )
@@ -1388,7 +1314,7 @@
     (pin "1" (uuid 5e403623-5573-4ec6-a921-d82f4b951445))
     (pin "2" (uuid c869f8c8-f68c-4441-9560-c3e5710d3de3))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R8") (unit 1)
         )
@@ -1416,7 +1342,7 @@
     )
     (pin "1" (uuid aea7c6f8-c744-42a9-8305-7173aaff0c2e))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR01") (unit 1)
         )
@@ -1427,53 +1353,24 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 214.122 51.054 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 664529f9-2a1e-46bf-91cc-d06fc77f8272)
-    (property "Reference" "C31" (at 210.947 49.784 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "10uF" (at 210.947 52.324 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 215.0872 47.244 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 214.122 51.054 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 26b70ddb-049e-4834-9d97-33dc89d68884))
-    (pin "2" (uuid 9dd0429c-2c9f-4084-864e-c982379d4881))
-    (instances
-      (project "LT3081LEDDriver"
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
-          (reference "C31") (unit 1)
-        )
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
-          (reference "C14") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 180.594 61.214 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 179.578 49.784 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67323b3b-9cc1-41e5-9caa-e151f79b590a)
-    (property "Reference" "#PWR011" (at 180.594 67.564 0)
+    (property "Reference" "#PWR011" (at 179.578 56.134 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 180.594 66.294 0)
+    (property "Value" "GND" (at 179.578 54.864 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 180.594 61.214 0)
+    (property "Footprint" "" (at 179.578 49.784 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 180.594 61.214 0)
+    (property "Datasheet" "" (at 179.578 49.784 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0a6958e1-33c3-4866-86af-6b03d93dffa5))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR011") (unit 1)
         )
@@ -1503,7 +1400,7 @@
     (pin "2" (uuid 0b465b31-aa75-4627-8758-d55e58445b77))
     (pin "3" (uuid 83ab3325-38e1-440f-98a5-c612ec28e9d3))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/6253afc8-4e7e-4180-aa5a-72b0f3fc7b64"
           (reference "D3") (unit 1)
         )
@@ -1546,6 +1443,72 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 179.578 29.845 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6f304690-b809-43b8-b3f8-aec00a9171b0)
+    (property "Reference" "#PWR034" (at 179.578 23.495 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 179.578 24.765 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 179.578 29.845 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 179.578 29.845 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4b99cd0c-7f50-407c-baba-942890258972))
+    (instances
+      (project "LT3081LEDDummyDriver"
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/6253afc8-4e7e-4180-aa5a-72b0f3fc7b64"
+          (reference "#PWR034") (unit 1)
+        )
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
+          (reference "#PWR024") (unit 1)
+        )
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
+          (reference "#PWR024") (unit 1)
+        )
+      )
+      (project "ValveServoI2C"
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/30132a79-1ecf-48b0-8c76-db908248aec0"
+          (reference "#PWR01") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/30132a79-1ecf-48b0-8c76-db908248aec0/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "#PWR013") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/30132a79-1ecf-48b0-8c76-db908248aec0/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "#PWR017") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/dc04a453-f55f-4a1e-9917-412c4139ad3f/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "#PWR040") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/dc04a453-f55f-4a1e-9917-412c4139ad3f/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "#PWR032") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/cabe37a5-6244-4a55-ac51-99e36948a296/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "#PWR058") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/cabe37a5-6244-4a55-ac51-99e36948a296/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "#PWR066") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/2ec34a61-e320-4f84-acd8-7cbc19bf99e8/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "#PWR080") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/2ec34a61-e320-4f84-acd8-7cbc19bf99e8/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "#PWR088") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc"
+          (reference "#PWR010") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/cf4552af-4577-40c1-aee7-0d6e77a6921b"
+          (reference "#PWR083") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 89.154 51.816 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6fdfc911-3e18-4b0d-98b1-2f1aa804d8e6)
@@ -1564,7 +1527,7 @@
     (pin "1" (uuid 5883da78-a0f1-4f5e-95b4-65c1669076a9))
     (pin "2" (uuid 9bfdc307-7270-4dde-af5e-ed74956f371d))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C10") (unit 1)
         )
@@ -1592,7 +1555,7 @@
     )
     (pin "1" (uuid b551f614-219e-4758-809a-2bae027348d8))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/6253afc8-4e7e-4180-aa5a-72b0f3fc7b64"
           (reference "#PWR033") (unit 1)
         )
@@ -1638,25 +1601,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 241.554 59.944 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 187.96 48.514 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7292a147-a5bc-4304-b3e7-fd49b18c2515)
-    (property "Reference" "J4" (at 241.554 51.562 0)
+    (property "Reference" "J4" (at 187.96 40.132 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "V_{LED}" (at 241.554 54.102 0)
+    (property "Value" "V_{LED}" (at 187.96 42.672 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 241.554 59.944 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 187.96 48.514 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 241.554 59.944 0)
+    (property "Datasheet" "~" (at 187.96 48.514 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 58e828a6-9966-4630-84d9-aa9b896db8e2))
     (pin "2" (uuid b6093563-52f8-457c-aa39-58d82a380607))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "J4") (unit 1)
         )
@@ -1684,7 +1647,7 @@
     )
     (pin "1" (uuid fcaffe9f-d8e8-48ef-882a-0676a7944e4d))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR06") (unit 1)
         )
@@ -1712,7 +1675,7 @@
     )
     (pin "1" (uuid 9a5a2c99-fb8a-4c26-aca1-c01dc14b1139))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/6253afc8-4e7e-4180-aa5a-72b0f3fc7b64"
           (reference "#PWR034") (unit 1)
         )
@@ -1775,7 +1738,7 @@
     )
     (pin "1" (uuid 60cbb00b-6af2-46c8-8ce4-22587aab4887))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR07") (unit 1)
         )
@@ -1810,7 +1773,7 @@
     (pin "7" (uuid 2713849c-6dcd-4b64-9ddf-a6349396c00c))
     (pin "8" (uuid 0329f82c-d223-4188-b5fc-83825ea5482a))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "U1") (unit 1)
         )
@@ -1839,7 +1802,7 @@
     (pin "1" (uuid ab52505b-a804-45db-93be-a4417863d170))
     (pin "2" (uuid e76bfdc6-5a22-4276-9186-bac0cc4f7871))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R8") (unit 1)
         )
@@ -1868,7 +1831,7 @@
     (pin "1" (uuid 371bb4f6-21fe-47e3-842c-b5a2d702fe44))
     (pin "2" (uuid 62dfda4d-ce06-47a2-bb44-77f74e874e6c))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C5") (unit 1)
         )
@@ -1896,7 +1859,7 @@
     )
     (pin "1" (uuid 7ba2d4a0-2e84-415c-8f07-84107ebadae3))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR015") (unit 1)
         )
@@ -1925,7 +1888,7 @@
     (pin "1" (uuid 6d42a321-8853-414e-aab4-1e44c583acfd))
     (pin "2" (uuid bb672fe7-d215-4f53-aa7b-9c3ff8545d52))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R5") (unit 1)
         )
@@ -1953,12 +1916,77 @@
     )
     (pin "1" (uuid d987e0f3-bb4b-4328-a6c3-30ff2f608943))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR03") (unit 1)
         )
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
           (reference "#PWR011") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:D_Dual_Series_AKC_Parallel") (at 177.038 37.338 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid bba528f6-8a9c-4772-8fd9-11b2bfe72084)
+    (property "Reference" "D3" (at 182.118 36.0045 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "100V" (at 182.118 38.5445 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-3" (at 177.038 38.608 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 177.038 38.608 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b2733850-dee7-479c-b370-32bf31ec8e14))
+    (pin "2" (uuid 9ad66fc9-f921-49a2-be0c-34c2f1aab3da))
+    (pin "3" (uuid 5ff8886b-2e72-4eba-9b8b-e0baecda599b))
+    (instances
+      (project "LT3081LEDDummyDriver"
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/6253afc8-4e7e-4180-aa5a-72b0f3fc7b64"
+          (reference "D3") (unit 1)
+        )
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
+          (reference "D4") (unit 1)
+        )
+        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
+          (reference "D4") (unit 1)
+        )
+      )
+      (project "ValveServoI2C"
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/30132a79-1ecf-48b0-8c76-db908248aec0/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "D74") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/30132a79-1ecf-48b0-8c76-db908248aec0/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "D75") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/dc04a453-f55f-4a1e-9917-412c4139ad3f/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "D76") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/dc04a453-f55f-4a1e-9917-412c4139ad3f/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "D78") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/cabe37a5-6244-4a55-ac51-99e36948a296/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "D81") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/cabe37a5-6244-4a55-ac51-99e36948a296/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "D83") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/2ec34a61-e320-4f84-acd8-7cbc19bf99e8/a63ed5d4-d40b-4975-aebf-a44fc7d943d7"
+          (reference "D85") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/0babeb5d-205f-48b6-83ca-4d396fe1ed25/2ec34a61-e320-4f84-acd8-7cbc19bf99e8/153fe57d-34b3-46d5-a58d-6bf0d0c2b966"
+          (reference "D87") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc"
+          (reference "D33") (unit 1)
+        )
+        (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/cf4552af-4577-40c1-aee7-0d6e77a6921b"
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -1982,7 +2010,7 @@
     (pin "1" (uuid 12daa059-3abe-4509-8362-54f56deca859))
     (pin "2" (uuid 34e57b92-68a9-4e42-8ec5-47234a9178b4))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R6") (unit 1)
         )
@@ -2011,7 +2039,7 @@
     (pin "1" (uuid c5868318-d96e-4451-bb09-75c3906b11be))
     (pin "2" (uuid b31be90a-a35c-4db6-a929-8dab95f47aad))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C1") (unit 1)
         )
@@ -2040,7 +2068,7 @@
     (pin "1" (uuid 8d039988-d087-4feb-94e5-7c30f4a2c9cb))
     (pin "2" (uuid 5916347a-9ab4-4095-b7e5-62756f545b8b))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R9") (unit 1)
         )
@@ -2068,7 +2096,7 @@
     )
     (pin "1" (uuid 279ccb81-675a-4a9e-89a5-d9fec3e4b9eb))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR02") (unit 1)
         )
@@ -2097,7 +2125,7 @@
     (pin "1" (uuid aa500939-adb4-457c-9696-e680e1020eca))
     (pin "2" (uuid 02980443-373f-418b-a566-4da3f53860fc))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R7") (unit 1)
         )
@@ -2126,7 +2154,7 @@
     (pin "1" (uuid 368c8755-92af-470f-b518-da7ec93b02b8))
     (pin "2" (uuid dca50e8a-cd59-4305-add4-5eb4604a823d))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R3") (unit 1)
         )
@@ -2155,7 +2183,7 @@
     (pin "1" (uuid 8714a1bf-f374-4017-819b-30ac0e2a6dd3))
     (pin "2" (uuid e434468f-b19a-46e3-9918-054c13c3207e))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R8") (unit 1)
         )
@@ -2184,7 +2212,7 @@
     (pin "1" (uuid 309d34ad-f014-43ac-be6c-48a5d7181725))
     (pin "2" (uuid 3b1a16cf-4c95-4cd8-a968-cccc7c5ec94e))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C4") (unit 1)
         )
@@ -2213,7 +2241,7 @@
     (pin "1" (uuid de88d37e-77e8-422d-94a2-3c9d32979cec))
     (pin "2" (uuid e2afc8ba-4837-490d-8af6-95c7c4d7f623))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R1") (unit 1)
         )
@@ -2242,7 +2270,7 @@
     (pin "1" (uuid 50f4debc-1fb5-4d36-9475-61d6714e33d5))
     (pin "2" (uuid 5d6405ea-9f80-4c4a-ab9c-eca9e6502efd))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R8") (unit 1)
         )
@@ -2271,7 +2299,7 @@
     (pin "1" (uuid b7a61fc6-9343-4271-8ac1-fed15d71922d))
     (pin "2" (uuid 41816362-2db5-4301-8589-6c6cf3b3e1da))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "J3") (unit 1)
         )
@@ -2300,41 +2328,12 @@
     (pin "1" (uuid 7bf1ba3c-9d09-4a8e-a0c6-f98d3faa87a0))
     (pin "2" (uuid e75bd73e-23f6-4351-b73e-b8ace072dafc))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R16") (unit 1)
         )
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
           (reference "R1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C") (at 203.454 51.054 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid fbaca385-57f2-455d-842a-830cc7b0a310)
-    (property "Reference" "C30" (at 199.644 49.784 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1uF" (at 199.644 52.324 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 204.4192 47.244 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 203.454 51.054 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 67ec8205-8447-42ce-9b6b-ad05b012ad3e))
-    (pin "2" (uuid 9833fdf7-6c70-4331-a15b-0569d11789be))
-    (instances
-      (project "LT3081LEDDriver"
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
-          (reference "C30") (unit 1)
-        )
-        (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0/7385d36a-d184-4136-9e13-50e6db7de5bc"
-          (reference "C13") (unit 1)
         )
       )
     )

@@ -563,7 +563,7 @@
     (pin "1" (uuid f36798a7-b55b-4e47-84db-a51a05ef09ba))
     (pin "2" (uuid 8f65effc-b11c-4366-8c79-d2ddea76edb8))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R22") (unit 1)
         )
@@ -592,7 +592,7 @@
     (pin "1" (uuid fdc859ca-d0e7-45b5-b690-d071f6200b06))
     (pin "2" (uuid b015075f-8970-4c27-a70f-429cc7ffa234))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R23") (unit 1)
         )
@@ -621,7 +621,7 @@
     (pin "1" (uuid 1cda3891-fa09-47e8-b773-8dadd2e298b1))
     (pin "2" (uuid e539ab93-707b-444a-b9fc-124c5dc13ee2))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C9") (unit 1)
         )
@@ -650,7 +650,7 @@
     (pin "1" (uuid 254a47a3-3168-46e2-a2b3-6bcfcfcf1ae7))
     (pin "2" (uuid b47253d4-bf0f-4e51-ba47-181eda5237a6))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R21") (unit 1)
         )
@@ -678,7 +678,7 @@
     )
     (pin "1" (uuid 856d4797-fa6e-428e-a727-2d2d8392dc95))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR022") (unit 1)
         )
@@ -707,7 +707,7 @@
     (pin "1" (uuid 756a3aaa-5e05-40f7-940d-f7d6d383d021))
     (pin "2" (uuid 509426a8-a810-4a92-a53d-6513ea995d3b))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C11") (unit 1)
         )
@@ -736,7 +736,7 @@
     (pin "1" (uuid 7e4fb83b-3f86-4758-9d6c-df266956fd50))
     (pin "2" (uuid 361ce4c6-d507-46d2-b5d4-745985c5ec20))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R13") (unit 1)
         )
@@ -771,7 +771,7 @@
     (pin "7" (uuid 93d313c3-38ca-473f-a5da-e6cba914653a))
     (pin "8" (uuid 2428d518-8178-4020-9e5b-dc39c8e819ba))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "U2") (unit 1)
         )
@@ -799,7 +799,7 @@
     )
     (pin "1" (uuid 1eec3622-a7b9-45c1-ade4-1fe539a5ffe0))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR010") (unit 1)
         )
@@ -828,7 +828,7 @@
     (pin "1" (uuid d7d619eb-5e93-4182-856a-3122a617c92e))
     (pin "2" (uuid f45b7a46-be2e-4707-ab35-88aba929c3f3))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R12") (unit 1)
         )
@@ -856,7 +856,7 @@
     )
     (pin "1" (uuid aba66ddf-e408-4008-bf90-c72b01ed80e6))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR014") (unit 1)
         )
@@ -885,7 +885,7 @@
     (pin "1" (uuid a780a05e-0555-4cc4-89a2-324b2283c28e))
     (pin "2" (uuid 0d80d741-0209-4973-a5f7-bcb92886eff4))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R15") (unit 1)
         )
@@ -914,7 +914,7 @@
     (pin "1" (uuid 948f4f51-3f07-46a7-881c-b7e66298b836))
     (pin "2" (uuid e10ccf3d-3694-487e-b693-aaa9c5e800cf))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R24") (unit 1)
         )
@@ -942,7 +942,7 @@
     )
     (pin "1" (uuid bfe95f89-9fcd-4384-8ea2-57fc0077d104))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR012") (unit 1)
         )
@@ -971,7 +971,7 @@
     (pin "1" (uuid 0c472b22-c409-44d0-97e4-95c4d9b19a74))
     (pin "2" (uuid 0d326666-ae51-4bca-a2a7-de7e84e9e04b))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C6") (unit 1)
         )
@@ -999,7 +999,7 @@
     )
     (pin "1" (uuid 518384f7-b221-4397-82bd-b28014706a23))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR013") (unit 1)
         )
@@ -1028,7 +1028,7 @@
     (pin "1" (uuid 100f3476-8396-48cc-a7e5-d8dbca44d219))
     (pin "2" (uuid eaec033a-9e96-4a5f-ba98-857a07214ed5))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "R14") (unit 1)
         )
@@ -1057,7 +1057,7 @@
     (pin "1" (uuid cba9a1a0-302b-47eb-b032-d349800d8b38))
     (pin "2" (uuid d8d0e67f-0c91-4237-bc5c-bf1cce6096ce))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "C12") (unit 1)
         )
@@ -1085,7 +1085,7 @@
     )
     (pin "1" (uuid b3524518-a43b-4693-8572-c4e33d1ec989))
     (instances
-      (project "LT3081LEDDriver"
+      (project "LT3081LEDDummyDriver"
         (path "/ae7a982b-caf6-4d0c-b668-a40189f7b3d0"
           (reference "#PWR09") (unit 1)
         )
